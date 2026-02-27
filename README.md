@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Somnath%20Rana&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+Java Backend Engineer • Spring Boot • Microservices • System Design
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Spring+Boot+Microservices+Architecture;Secure+JWT+Authentication;Clean+Code+%7C+High+Performance+APIs;DSA+%7C+System+Design+Enthusiast"/>
+</p>
+
+
 # 💫 About Me:
 - 👨‍💻 Java Backend Developer<br>- 🔭 Working on Java, Spring Boot & REST APIs<br>- 🌱 Learning Spring Boot, Hibernate & DSA<br>- 👯 Open to backend & open-source collaboration<br>- 💬 Ask me about Java & backend fundamentals<br>- ⚡ Fun fact: I love writing clean & readable code
 
