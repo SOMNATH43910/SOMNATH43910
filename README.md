@@ -25,7 +25,7 @@
 </p>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=SOMNATH43910&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/somnath7/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -209,7 +209,7 @@ public class SomnathRana {
     &nbsp;
     <img src="https://img.shields.io/badge/Domain-IT%20Services%20%26%20Consulting-6DB33F?style=flat-square"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Type-Full%20Time-brightgreen?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Type-Intern-orange?style=flat-square"/>
     <br/><br/>
     Worked as a <b>Software Engineer at Wipro Limited</b>, contributing to enterprise-level backend systems using Java and Spring Boot. Gained hands-on experience in building scalable, production-ready applications and collaborating in agile teams.
     <br/><br/>
@@ -230,68 +230,79 @@ public class SomnathRana {
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
-<h3 align="center">🏦 Banking Project</h3>
-<div align="center">
-  <a href="https://github.com/SOMNATH43910/Banking_PROJECT">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-Banking__PROJECT-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
-</div>
-<br/>
+<td width="33%" valign="top" align="center" style="padding:16px;">
+<h3>🏦 Banking System</h3>
+<a href="https://github.com/SOMNATH43910/Banking-Project-Spring-Boot-JPA-REST-API-">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-Banking-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+<br/><br/>
 
 ```
-🏦 Secure RESTful Banking System
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏦 RESTful Banking APIs
+━━━━━━━━━━━━━━━━━━━━━━
 ✅ Create / Deposit / Withdraw
-✅ Fund Transfer between accounts
-✅ Transaction History & Statements
-✅ Spring Data JPA + Hibernate ORM
-✅ MySQL + H2 Database Support
+✅ Fund Transfer
+✅ Transaction History
+✅ Spring Data JPA + Hibernate
+✅ MySQL + H2 Support
 ```
 
-<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat-square"/>
-</p>
 </td>
 
-<td width="50%" valign="top">
-<h3 align="center">⚡ EventOS Platform</h3>
-<div align="center">
-  <a href="https://github.com/SOMNATH43910/EventOS">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-EventOS-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
-</div>
-<br/>
+<td width="33%" valign="top" align="center" style="padding:16px;">
+<h3>⚡ EventOS Platform</h3>
+<a href="https://github.com/SOMNATH43910/Event-Management-Platform-">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-EventOS-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+<br/><br/>
 
 ```
-⚡ Real-Time Event Management System
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Real-Time Event Management
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✅ WebSocket (STOMP) Live Updates
-✅ React Frontend + Axios Integration
-✅ Spring Security (Basic Auth)
-✅ Docker Ready for Production
-✅ Clean MVC Layered Architecture
+✅ React + Axios Frontend
+✅ Spring Security Auth
+✅ Docker Ready
+✅ Clean MVC Architecture
 ```
 
-<p align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/WebSocket-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+</td>
+
+<td width="33%" valign="top" align="center" style="padding:16px;">
+<h3>🛒 E-Commerce App</h3>
+<a href="https://github.com/SOMNATH43910/Microservices-based-E-commerce-Application-">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-ECommerce-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+<br/><br/>
+
+```
+🛒 Microservices E-Commerce
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Product Listing / Catalog
+✅ Shopping Cart & Orders
+✅ User Login / Registration
+✅ API Gateway + Eureka
+✅ Inter-Service Communication
+```
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </td>
 
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## ☕ Support My Work
@@ -310,8 +321,8 @@ public class SomnathRana {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
 
-**💡 "First, solve the problem. Then, write the code." — John Johnson**
+**☕ "Code is like coffee — best when it's clean!"**
 
-<img src="https://komarev.com/ghpvc/?username=SOMNATH43910&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/somnath7/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
