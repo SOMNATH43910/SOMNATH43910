@@ -233,7 +233,7 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 <a href="https://github.com/SOMNATH43910/Banking-Project-Spring-Boot-JPA-REST-API-">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/SOMNATH43910/banking-system">
+<a href="https://github.com/SOMNATH43910/Banking-Project-Spring-Boot-JPA-REST-API-">
 <img src="https://img.shields.io/badge/BANKING-0f3460?style=flat-square"/>
 </a>
 
@@ -267,7 +267,7 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 <a href="https://github.com/SOMNATH43910/Event-Management-Platform-">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/SOMNATH43910/EventOS">
+<a href="https://github.com/SOMNATH43910/Event-Management-Platform-">
 <img src="https://img.shields.io/badge/EVENTOS-00B4D8?style=flat-square"/>
 </a>
 
@@ -301,7 +301,7 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 <a href="https://github.com/SOMNATH43910/Microservices-based-E-commerce-Application-">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/SOMNATH43910/ecommerce-app">
+<a href="https://github.com/SOMNATH43910/Microservices-based-E-commerce-Application-">
 <img src="https://img.shields.io/badge/ECOMMERCE-FF6F00?style=flat-square"/>
 </a>
 
@@ -339,7 +339,7 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 <a href="https://github.com/SOMNATH43910/Tesk-Managemnt">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/SOMNATH43910/task-management">
+<a href="https://github.com/SOMNATH43910/Tesk-Managemnt">
 <img src="https://img.shields.io/badge/TASKFLOW-7B2FBE?style=flat-square"/>
 </a>
 
