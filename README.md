@@ -336,7 +336,7 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 ### 🗂️ TaskFlow
 
-<a href="https://github.com/SOMNATH43910/task-management">
+<a href="https://github.com/SOMNATH43910/Tesk-Managemnt">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 <a href="https://github.com/SOMNATH43910/task-management">
