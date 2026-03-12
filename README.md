@@ -1,27 +1,41 @@
 <div align="center">
+
 <!-- ANIMATED HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:1a1a2e&height=300&section=header&text=Somnath%20Rana&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=20&descColor=a8d8ea"/>
+
 <br/>
+
 <!-- SOCIAL BADGES -->
+
 <p>
+
 <a href="https://www.linkedin.com/in/somnath7/">
 <img src="https://img.shields.io/badge/LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="https://x.com/SmthR9">
 <img src="https://img.shields.io/badge/X%20(Twitter)-@SmthR9-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="mailto:somnathrana43910@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-somnathrana43910-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="https://stackoverflow.com/users/29229234/somnath-rana">
 <img src="https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="https://www.reddit.com/user/Main_Wrongdoer_288/">
 <img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d1117"/>
 </a>
+
 </p>
+
 <!-- PROFILE VIEWS -->
+
 <a href="https://www.linkedin.com/in/somnath7/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </div>
 
 ---
@@ -145,7 +159,7 @@ public class SomnathRana {
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/EventOS-00B4D8?style=flat-square&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
 </p>
 
@@ -328,9 +342,10 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 </tr>
 
-<!-- ===== ROW 2 — TASKFLOW ===== -->
+<!-- ===== ROW 2 ===== -->
 <tr>
 
+<!-- ===== TASKFLOW ===== -->
 <td width="33%" valign="top">
 <div align="center">
 
@@ -364,7 +379,46 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 </div>
 </td>
 
-<td width="33%"></td>
+<!-- ===== SOMNATH BANK ===== -->
+<td width="33%" valign="top">
+<div align="center">
+
+### 🏛️ SomNath Bank
+
+<a href="https://github.com/SOMNATH43910/SomNath-Bank">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/SOMNATH43910/SomNath-Bank">
+<img src="https://img.shields.io/badge/SOMNATHBANK-00897B?style=flat-square"/>
+</a>
+
+<br/><br/>
+
+```
+🏛️ Full Stack Digital Banking Platform
+```
+
+✅ Admin & Customer Portals  
+✅ JWT + RBAC (Admin/Staff/Customer)  
+✅ 40+ RESTful APIs  
+✅ 12+ Banking Modules (KYC, Loans, Cards, FD)  
+✅ Multi-Step Approval Workflows  
+✅ Real-Time Admin Analytics Dashboard  
+✅ Transaction Engine + CSV Export  
+✅ Complaint Management System  
+✅ Responsive Dark/Light UI (Tailwind CSS)  
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+</div>
+</td>
+
 <td width="33%"></td>
 
 </tr>
