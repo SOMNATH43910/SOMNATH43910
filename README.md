@@ -385,10 +385,10 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 ### 🏛️ SomNath Bank
 
-<a href="https://github.com/SOMNATH43910/SomNath-Bank">
+<a href="https://github.com/SOMNATH43910/SomNath-Bank/tree/main">
 <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/SOMNATH43910/SomNath-Bank">
+<a href="https://github.com/SOMNATH43910/SomNath-Bank/tree/main">
 <img src="https://img.shields.io/badge/SOMNATHBANK-00897B?style=flat-square"/>
 </a>
 
