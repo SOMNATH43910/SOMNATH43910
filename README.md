@@ -9,30 +9,22 @@
 <!-- SOCIAL BADGES -->
 
 <p>
-
 <a href="https://www.linkedin.com/in/somnath7/">
 <img src="https://img.shields.io/badge/LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://x.com/SmthR9">
 <img src="https://img.shields.io/badge/X%20(Twitter)-@SmthR9-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="mailto:somnathrana43910@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-somnathrana43910-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://stackoverflow.com/users/29229234/somnath-rana">
 <img src="https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://www.reddit.com/user/Main_Wrongdoer_288/">
 <img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d1117"/>
 </a>
-
 </p>
-
-<!-- PROFILE VIEWS -->
 
 <a href="https://www.linkedin.com/in/somnath7/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Somnath%20Rana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -144,7 +136,6 @@ public class SomnathRana {
 </tr>
 </table>
 
-<!-- SKILL BADGES -->
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -159,6 +150,9 @@ public class SomnathRana {
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
 </p>
@@ -238,6 +232,48 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 <table>
 <tr>
 
+<!-- ===== CODEMITR ===== -->
+<td width="33%" valign="top">
+<div align="center">
+
+### 🤖 CodeMitr
+
+<a href="https://github.com/SOMNATH43910/codemitr-backend">
+<img src="https://img.shields.io/badge/BACKEND-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/SOMNATH43910/codemitr-android">
+<img src="https://img.shields.io/badge/ANDROID-○-white?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/SOMNATH43910/codemitr-backend">
+<img src="https://img.shields.io/badge/AI%20PLATFORM-7F3FBF?style=flat-square"/>
+</a>
+
+<br/><br/>
+
+```
+🤖 AI Developer Companion Platform
+```
+
+✅ Groq AI (LLaMA 3.3 70B) Integration
+✅ Real-Time AI Code Review
+✅ ATS Resume Optimizer
+✅ Razorpay Freemium Payments
+✅ Spring Boot + Android + React.js
+✅ JWT Auth + Rate Limiting
+✅ PDF Processing (PDFBox)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+
+</div>
+</td>
+
 <!-- ===== BANKING SYSTEM ===== -->
 <td width="33%" valign="top">
 <div align="center">
@@ -257,11 +293,11 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 🏦 RESTful Banking APIs
 ```
 
-✅ Create / Deposit / Withdraw  
-✅ Fund Transfer  
-✅ Transaction History  
-✅ Spring Data JPA + Hibernate  
-✅ MySQL + H2 Support  
+✅ Create / Deposit / Withdraw
+✅ Fund Transfer
+✅ Transaction History
+✅ Spring Data JPA + Hibernate
+✅ MySQL + H2 Support
 
 <br/>
 
@@ -291,11 +327,11 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 ⚡ Real-Time Event Management
 ```
 
-✅ WebSocket (STOMP) Live Updates  
-✅ React + Axios Frontend  
-✅ Spring Security Auth  
-✅ Docker Ready  
-✅ Clean MVC Architecture  
+✅ WebSocket (STOMP) Live Updates
+✅ React + Axios Frontend
+✅ Spring Security Auth
+✅ Docker Ready
+✅ Clean MVC Architecture
 
 <br/>
 
@@ -305,6 +341,11 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 </div>
 </td>
+
+</tr>
+
+<!-- ===== ROW 2 ===== -->
+<tr>
 
 <!-- ===== E-COMMERCE APP ===== -->
 <td width="33%" valign="top">
@@ -325,11 +366,11 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 🛒 Microservices E-Commerce
 ```
 
-✅ Product Listing / Catalog  
-✅ Shopping Cart & Orders  
-✅ User Login / Registration  
-✅ API Gateway + Eureka  
-✅ Inter-Service Communication  
+✅ Product Listing / Catalog
+✅ Shopping Cart & Orders
+✅ User Login / Registration
+✅ API Gateway + Eureka
+✅ Inter-Service Communication
 
 <br/>
 
@@ -339,11 +380,6 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 </div>
 </td>
-
-</tr>
-
-<!-- ===== ROW 2 ===== -->
-<tr>
 
 <!-- ===== TASKFLOW ===== -->
 <td width="33%" valign="top">
@@ -364,11 +400,11 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 🗂️ Real-Time Task Manager
 ```
 
-✅ WebSocket Live Collaboration  
-✅ Role-Based Access (Admin/Manager/Dev)  
-✅ Task Assignment & Deadlines  
-✅ Priority Management (HIGH/MED/LOW)  
-✅ Spring Security + JWT Auth  
+✅ WebSocket Live Collaboration
+✅ Role-Based Access (Admin/Manager/Dev)
+✅ Task Assignment & Deadlines
+✅ Priority Management (HIGH/MED/LOW)
+✅ Spring Security + JWT Auth
 
 <br/>
 
@@ -398,15 +434,15 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 🏛️ Full Stack Digital Banking Platform
 ```
 
-✅ Admin & Customer Portals  
-✅ JWT + RBAC (Admin/Staff/Customer)  
-✅ 40+ RESTful APIs  
-✅ 12+ Banking Modules (KYC, Loans, Cards, FD)  
-✅ Multi-Step Approval Workflows  
-✅ Real-Time Admin Analytics Dashboard  
-✅ Transaction Engine + CSV Export  
-✅ Complaint Management System  
-✅ Responsive Dark/Light UI (Tailwind CSS)  
+✅ Admin & Customer Portals
+✅ JWT + RBAC (Admin/Staff/Customer)
+✅ 40+ RESTful APIs
+✅ 12+ Banking Modules (KYC, Loans, Cards, FD)
+✅ Multi-Step Approval Workflows
+✅ Real-Time Admin Analytics Dashboard
+✅ Transaction Engine + CSV Export
+✅ Complaint Management System
+✅ Responsive Dark/Light UI (Tailwind CSS)
 
 <br/>
 
@@ -418,8 +454,6 @@ Worked as a Software Engineer at Wipro Limited, contributing to enterprise-level
 
 </div>
 </td>
-
-<td width="33%"></td>
 
 </tr>
 </table>
